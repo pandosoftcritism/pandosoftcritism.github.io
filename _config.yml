@@ -1,0 +1,6 @@
+title: "Pandosoft: A Scam?"
+description: A legitimate project? Or just sweet lies?
+theme: jekyll-theme-tactile
+url: "https://pandosoftcritism.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
