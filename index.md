@@ -141,7 +141,7 @@ There are part of the privacy policy that states about Facebook and Google Analy
 ![gtag.js1](/img/image-17.jpg)  
 gtag.js present on dreiseitl.com  
 
-![g](/img/image-15.jpg)  
+![g](/img/image-15.png)  
 ![ublock](/img/image-18.png)  
 ![ublock2](/img/image-19.png)  
 I also can’t seem to find anything else that is related to analytics. That’s nice, but LOTS of companies usually love analytics.
